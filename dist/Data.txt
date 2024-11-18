@@ -1,0 +1,37 @@
+
+======================= Expenses =======================
+ID          Date           Amount         Content
+1           08/Jul/2024    300000,00      gop tien di hai phong
+2           10/Jul/2024    24000,00       banh my, sate
+3           11/Jul/2024    250000,00      kham benh
+4           11/Jul/2024    34000,00       ve xe bus
+5           12/Jul/2024    18000,00       binh nuoc
+6           12/Jul/2024    100000,00      clb
+7           12/Jul/2024    50000,00       xang xe
+8           13/Jul/2024    10000,00       bang dinh, keo 502
+9           14/Jul/2024    14000,00       do an vat
+10          15/Jul/2024    40000,00       cat toc
+11          16/Jul/2024    17000,00       nuoc
+12          16/Jul/2024    20000,00       an trua
+13          16/Jul/2024    1622500,00     tien phong thang 6
+14          17/Jul/2024    10000,00       an vat
+15          18/Jul/2024    5000,00        bom xe
+16          18/Jul/2024    17000,00       my va chao
+17          19/Jul/2024    400000,00      di hai phong
+18          19/Jul/2024    20000,00       rau
+19          19/Jul/2024    165000,00      lien hoan
+20          19/Jul/2024    90000,00       xang, inter
+21          22/Jul/2024    200000,00      gao
+22          22/Jul/2024    10000,00       rau
+23          22/Jul/2024    8000,00        an nhe
+24          24/Jul/2024    17000,00       binh nuoc
+25          25/Jul/2024    10000,00       aan sang
+26          26/Jul/2024    10000,00       an bua nhe
+27          27/Jul/2024    18000,00       bus
+28          29/Jul/2024    18000,00       xe bus
+29          30/Jul/2024    38000,00       kem danh rang
+30          01/Aug/2024    35000,00       trung
+31          01/Aug/2024    8000,00        com chay
+32          01/Aug/2024    11000,00       rau
+33          01/Aug/2024    5000,00        hanh
+34          30/Aug/2024    50000,00       gio chay
